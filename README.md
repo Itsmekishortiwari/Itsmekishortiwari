@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishor Tiwari
 
-### 💼 Quality Assurance Engineer | Automation Enthusiast | AI Testing Advocate
+### 💼 Quality Assurance Engineer | Automation Enthusiast
 
 I'm a QA Engineer with hands-on experience in both manual and automation testing of SaaS products, dashboards, CRMs, and AI-driven systems. I enjoy building efficient testing workflows using tools like **Selenium**, **Cypress**, **JMeter**, and scripting in **Python**. I’ve worked on 15+ projects and believe in combining technical skill with smart test strategies to ensure software quality.
 
