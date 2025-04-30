@@ -36,13 +36,6 @@ I'm a QA Engineer with hands-on experience in both manual and automation testing
 
 ---
 
-## 📈 GitHub Stats
-
-![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmekishortiwari&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekishortiwari&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 📍 Kathmandu, Nepal  
