@@ -41,6 +41,3 @@ I'm a QA Engineer with hands-on experience in both manual and automation testing
 - 📍 Kathmandu, Nepal  
 - 📧 itsmekishortiwari@gmail.com  
 
----
-
-> 💬 “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
